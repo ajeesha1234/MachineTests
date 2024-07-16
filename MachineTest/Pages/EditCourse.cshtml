@@ -1,0 +1,106 @@
+﻿@page "/EditCourse/Id={id}"
+@model MachineTest.Pages.EditCourseModel;
+
+
+<span style="font-family: verdana, geneva, sans-serif">
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Course Management System</title>
+        <style>
+           body
+           {
+                background-image: url('/images/back-school.jpg');
+                background-size: cover;
+                background-attachment: fixed;
+                font-family: 'Times New Roman', Times, serif;
+           }
+        </style>
+   </head>
+    <body >
+        <div class="container-fluid">
+            <div class="row pt-2 pb-2"
+                 style="height: 50px; border: 1px solid gray; display: flex">
+                <div class="col-md-1">
+                    <a class="btn btn-primary btn-sm" asp-page="/Course">BACK</a>
+                </div>
+                <div class="col-md-6">
+                    <h2 style="
+                text-align: center;
+                font-family: monospace;
+                font-weight: 800;
+                color: brown;
+              ">
+                       Course Management System
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <section>
+            <div class="container-fluid">
+                <div class="row mt-4">
+                    <div class="col-md-6">
+                        <div class="card p-5">
+                            <form method="post">
+                                <label class="form-label">CourseName</label>
+                                <input type="text" class="form-control" placeholder="Enter CourseName" asp-for="Course.Name" required />
+                                <span asp-validation-for="Course.Name"></span>
+                                <label class="form-label">Description</label>
+                                <input type="text" class="form-control" placeholder="Enter Description" asp-for="Course.Description" required />
+                                <span asp-validation-for="Course.Description"></span>
+                                <label class="form-label">Validity</label>
+                                <input type="number" class="form-control" placeholder="Enter Validity" asp-for="Course.Validity" required />
+                                <span asp-validation-for="Course.Validity"></span>
+                                <label class="form-label">StartDate</label>
+                                <input type="date" class="form-control" placeholder="Enter Date" asp-for="Course.StartDate" required />
+                                <span asp-validation-for="Course.StartDate"></span><br />
+                                <input type="submit" class="btn btn-primary" />
+                            </form>
+                            <br />
+                            <form method="post" asp-page-handler="Delete">
+                                <input type="hidden" asp-for="Course.Id" />
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        @* <div class="card p-5">
+                           
+                        </div> *@
+                    </div>
+                    <div class="row">
+                        @if(TempData["Message"]!=null)
+                        {
+                            <b>@TempData["Message"]</b>
+                        }
+                    </div>
+                  
+                </div>
+            </div>
+        </section>
+        <div class="offcanvas offcanvas-start"
+             tabindex="-1"
+             id="offcanvasExample"
+             aria-labelledby="offcanvasExampleLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Menu</h5>
+                <button type="button"
+                        class="btn-close text-reset"
+                        data-bs-dismiss="offcanvas"
+                        aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <div>
+                    <a href="/Course">Courses</a>
+                    <a href="/Attendence">Attendence</a>
+                </div>
+            </div>
+        </div>
+       
+        
+    </body>
+</html>
+</span>
+
+

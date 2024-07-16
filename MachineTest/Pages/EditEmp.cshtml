@@ -1,0 +1,69 @@
+﻿@page "/EditEmp/Id={id}"
+@model MachineTest.Pages.EditEmpModel
+<span style="font-family: verdana, geneva, sans-serif">
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Course Management System</title>
+        <style>
+            body {
+                background-image: url('/images/back-school.jpg');
+                background-size: cover;
+                background-attachment: fixed;
+                font-family: 'Times New Roman', Times, serif;
+            }
+        </style>
+    </head>
+    <body >
+        <div class="container-fluid">
+            <div class="row pt-2 pb-2">
+                
+                <div class="col-md-1">
+                    <a class="btn btn-primary btn-sm" asp-page="/Home">BACK</a>
+                </div>
+                <div class="col-md-6">
+                    <h2 style="
+                text-align: center;
+                font-family: monospace;
+                font-weight: 800;
+                color: brown;">
+                        Course Management System
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <section>
+            <div class="container-fluid">
+                <div class="row mt-4">
+                    <div class="col-md-6">
+                        <div class="card p-5">
+                            <form method="post" asp-page-handler="Update">
+                                <label class="form-label">EmployeeName</label>
+                                <input type="text" class="form-control" placeholder="Enter EmployeeName" asp-for="emp.Name" required />
+                                <span asp-validation-for="emp.Name"></span>
+                                <label class="form-label">Position</label>
+                                <input type="text" class="form-control" placeholder="Enter Position" asp-for="emp.Position" required />
+                                <span asp-validation-for="emp.Position"></span>
+                                <label class="form-label">Department</label>
+                                <input type="text" class="form-control" placeholder="Enter Department" asp-for="emp.Department" required />
+                                <span asp-validation-for="emp.Department"></span><br />
+                                <button type="submit" class="btn btn-primary">Update</button>
+                            </form><br />
+                            <form method="post" asp-page-handler="Delete">
+                                <input type="hidden" asp-for="emp.Id" />
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        @* <div class="card p-5">
+
+                        </div> *@
+                    </div>
+                </div>
+            </div>
+                    </section>
+    </body>
+</html>
+</span>
