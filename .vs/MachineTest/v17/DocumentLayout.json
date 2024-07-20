@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\attendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\attendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\services\\attendenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\services\\attendenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\interfaces\\iattendencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interfaces\\iattendencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\repository\\attendencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\attendencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\viewmodel\\employeecourseattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\viewmodel\\employeecourseattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\attendence.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\attendence.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\interfaces\\iattendenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interfaces\\iattendenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\attendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\attendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\viewmodel\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\viewmodel\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\interfaces\\icourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interfaces\\icourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\interfaces\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\editemp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\pages\\attendence.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\attendence.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|c:\\users\\ajees\\onedrive\\desktop\\machinetest\\machinetest\\machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11B80C57-7F8D-4BDE-AC67-EE3C3287CB11}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,50 +102,172 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAttendenceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\IAttendenceRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interfaces\\IAttendenceRepository.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\IAttendenceRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interfaces\\IAttendenceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:35:29.282Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EmployeeServices.cs",
-              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Services\\EmployeeServices.cs",
-              "RelativeDocumentMoniker": "MachineTest\\Services\\EmployeeServices.cs",
-              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Services\\EmployeeServices.cs",
-              "RelativeToolTip": "MachineTest\\Services\\EmployeeServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Title": "AttendenceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Repository\\AttendenceRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\AttendenceRepository.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Repository\\AttendenceRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\AttendenceRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:22:09.627Z",
+              "WhenOpened": "2024-07-19T09:47:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendenceServices.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Services\\AttendenceServices.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Services\\AttendenceServices.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Services\\AttendenceServices.cs",
+              "RelativeToolTip": "MachineTest\\Services\\AttendenceServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:35:59.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Report.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Report.cshtml",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Report.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Report.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T08:59:47.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Report.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Report.cshtml.cs",
               "RelativeDocumentMoniker": "MachineTest\\Pages\\Report.cshtml.cs",
               "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Report.cshtml.cs",
               "RelativeToolTip": "MachineTest\\Pages\\Report.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:22:48.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:22:48.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "EmployeeCourseAttendence.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\ViewModel\\EmployeeCourseAttendence.cs",
+              "RelativeDocumentMoniker": "MachineTest\\ViewModel\\EmployeeCourseAttendence.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\ViewModel\\EmployeeCourseAttendence.cs",
+              "RelativeToolTip": "MachineTest\\ViewModel\\EmployeeCourseAttendence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:28:31.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Course.cshtml",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Course.cshtml",
               "RelativeDocumentMoniker": "MachineTest\\Pages\\Course.cshtml",
               "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Course.cshtml",
               "RelativeToolTip": "MachineTest\\Pages\\Course.cshtml",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIkAAABVAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T08:56:24.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:56:24.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Attendence.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Attendence.cshtml.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml.cs",
+              "RelativeToolTip": "MachineTest\\Pages\\Attendence.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:06:56.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAttendenceServices.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\IAttendenceServices.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interfaces\\IAttendenceServices.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\IAttendenceServices.cs",
+              "RelativeToolTip": "MachineTest\\Interfaces\\IAttendenceServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:35:47.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attendence.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Attendence.cshtml",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Attendence.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T08:59:33.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:47:30.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\ViewModel\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "MachineTest\\ViewModel\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\ViewModel\\CourseViewModel.cs",
+              "RelativeToolTip": "MachineTest\\ViewModel\\CourseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:10:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICourseServices.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\ICourseServices.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interfaces\\ICourseServices.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\ICourseServices.cs",
+              "RelativeToolTip": "MachineTest\\Interfaces\\ICourseServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:10:51.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Home.cshtml",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Home.cshtml",
               "RelativeDocumentMoniker": "MachineTest\\Pages\\Home.cshtml",
@@ -117,51 +275,47 @@
               "RelativeToolTip": "MachineTest\\Pages\\Home.cshtml",
               "ViewState": "AQIAAG4AAAAAAAAAAAAAAH8AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T08:47:26.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:47:26.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Report.cshtml",
-              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Report.cshtml",
-              "RelativeDocumentMoniker": "MachineTest\\Pages\\Report.cshtml",
-              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Report.cshtml",
-              "RelativeToolTip": "MachineTest\\Pages\\Report.cshtml",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIEAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T08:59:47.21Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Models\\Course.cs",
+              "RelativeToolTip": "MachineTest\\Models\\Course.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:43:30.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Attendence.cshtml",
-              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml",
-              "RelativeDocumentMoniker": "MachineTest\\Pages\\Attendence.cshtml",
-              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml",
-              "RelativeToolTip": "MachineTest\\Pages\\Attendence.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T08:59:33.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Repository\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "MachineTest\\Repository\\EmployeeRepository.cs",
               "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Repository\\EmployeeRepository.cs",
               "RelativeToolTip": "MachineTest\\Repository\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwv2IAAAAAAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAA9wGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:19:05.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:19:05.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "MachineTest\\Services\\EmployeeServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:22:09.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "MachineTest\\Interfaces\\IEmployeeRepository.cs",
@@ -169,12 +323,11 @@
               "RelativeToolTip": "MachineTest\\Interfaces\\IEmployeeRepository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:21:51.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:21:51.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "IEmployeeServices.cs",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Interfaces\\IEmployeeServices.cs",
               "RelativeDocumentMoniker": "MachineTest\\Interfaces\\IEmployeeServices.cs",
@@ -182,12 +335,11 @@
               "RelativeToolTip": "MachineTest\\Interfaces\\IEmployeeServices.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA1wBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:22:00.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:22:00.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "EditCourse.cshtml",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\EditCourse.cshtml",
               "RelativeDocumentMoniker": "MachineTest\\Pages\\EditCourse.cshtml",
@@ -195,12 +347,11 @@
               "RelativeToolTip": "MachineTest\\Pages\\EditCourse.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T09:15:11.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:15:11.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "EditEmp.cshtml",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\EditEmp.cshtml",
               "RelativeDocumentMoniker": "MachineTest\\Pages\\EditEmp.cshtml",
@@ -208,25 +359,11 @@
               "RelativeToolTip": "MachineTest\\Pages\\EditEmp.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T09:10:09.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:10:09.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Attendence.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml.cs",
-              "RelativeDocumentMoniker": "MachineTest\\Pages\\Attendence.cshtml.cs",
-              "ToolTip": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\Attendence.cshtml.cs",
-              "RelativeToolTip": "MachineTest\\Pages\\Attendence.cshtml.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:06:56.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Program.cs",
               "RelativeDocumentMoniker": "MachineTest\\Program.cs",
@@ -234,12 +371,11 @@
               "RelativeToolTip": "MachineTest\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:03:57.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T09:03:57.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "EditEmp.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ajees\\OneDrive\\Desktop\\MachineTest\\MachineTest\\MachineTest\\Pages\\EditEmp.cshtml.cs",
               "RelativeDocumentMoniker": "MachineTest\\Pages\\EditEmp.cshtml.cs",
@@ -247,8 +383,7 @@
               "RelativeToolTip": "MachineTest\\Pages\\EditEmp.cshtml.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAADwvxoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:53:54.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:53:54.447Z"
             }
           ]
         }
